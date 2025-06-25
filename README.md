@@ -67,7 +67,6 @@ est utilisé, crucial pour de grandes résolutions (4032 × 3024).
 | Descente de gradient | Sensible au pas ; α > 0 ok   | Acceptable (flou ↗ pour R↑) | \~0.10 s          |
 | Gradient conjugué    | Converge < 60 iters          | Rendu net dès 30 iters      | \~0.15 s          |
 
-\* Mesures indicatives sur CPU i7-11xxx.
 
 ---
 
